@@ -1,0 +1,9 @@
+Java dili ile kullanıcıdan alınan tutarın KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
+
+(Not : KDV tutarını 18% olarak alın)
+
+Örnek Çıktı
+Tutar Giriniz : 100
+KDV Oranı : %18
+KDV Tutarı : 18.00
+KDV'li Tutar : 118.0
